@@ -6,6 +6,13 @@ Welcome to **CareerBot**, your friendly AI-powered chatbot that helps you explor
 
 ---
 
+📊 PowerPoint Prototype
+We also created a PowerPoint mockup version of CareerBot for demonstration and non-coding environments.
+
+👉 https://capeitinitiative-my.sharepoint.com/:p:/g/personal/cate_malatjie_capaciti_org_za/EQ04IaIffwZJlg4IqcJRq2kBPZPcqE2LfsA-9u9hY_dDow?e=WWmMbW&nav=eyJzSWQiOjI1Nn0 
+
+The slides simulate the chatbot experience using clickable buttons, decision paths, and suggested career outputs — ideal for workshops, classrooms, or offline demos.
+
 ## 🧠 How It Works
 
 CareerBot uses simple decision logic (like a decision tree) to match your answers with a list of suggested careers. It asks:
