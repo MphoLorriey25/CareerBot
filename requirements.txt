@@ -1,2 +1,4 @@
 streamlit
 pillow
+cohere
+python-dotenv
