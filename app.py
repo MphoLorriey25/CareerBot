@@ -85,4 +85,5 @@ Tone: encouraging, simple, and friendly.
 
 # --- Footer ---
 st.markdown("---")
-st.caption("Made with ❤️ by Mpho Ndou | Powered by Streamlit + Cohere AI")
+st.caption("Made with ❤️ by Tech Avengers | Powered by Streamlit + Cohere AI")
+
