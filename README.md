@@ -2,7 +2,7 @@
 
 Welcome to **CareerBot**, your friendly AI-powered chatbot that helps you explore career options based on your interests, favorite school subjects, and personal strengths. It's fun, fast, and designed especially for students or anyone unsure about their career path! 🚀
 
-👉 **Try it now:** [https://careerbot-mpho25.streamlit.app/](https://careerbot-mpho25.streamlit.app/)
+👉 **Try it now:** [https://careerbot-tech-avengers25.streamlit.app/](https://careerbot-tech-avengers25.streamlit.app/)
 
 ---
 
